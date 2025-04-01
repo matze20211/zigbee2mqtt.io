@@ -26,8 +26,8 @@ pageClass: device-page
 ## Notes
 
 ### Reset/Re-pairing
-Unfortunately it is currently unknown how to bring the device in reset or re-pairing mode.
-Please be that kind and add this information, if your are in knowledge of it.
+Re-pair the device as follows: if you hold down all four buttons at the same time, the device is paired
+
 <!-- Notes END: Do not edit below this line -->
 
 
